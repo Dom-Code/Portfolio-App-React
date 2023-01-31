@@ -1,0 +1,12 @@
+#account-box {
+  width: 100%;
+  height: 100%;
+  padding-bottom: 50px;
+}
+
+#account-items {
+  width: 55%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

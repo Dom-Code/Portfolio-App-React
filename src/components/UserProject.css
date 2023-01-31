@@ -1,0 +1,26 @@
+.accordion-button {
+  background-color: #1f2d3b !important;
+  color: whitesmoke !important;
+
+  
+}
+
+.accordian {
+  max-width: 95%;
+  margin: auto;
+}
+
+#name {
+ margin-bottom: 5%; 
+}
+
+.body {
+  background-color: #212529;
+  color: whitesmoke
+}
+
+.project {
+  background-color: #1f2d3b;
+  height: 100%;
+  padding-top: 20px;
+}

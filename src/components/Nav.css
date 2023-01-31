@@ -1,0 +1,56 @@
+
+#nav-box {
+  height: 5vh;
+  display: inline-flex;
+  width: 100%;
+  justify-content: space-between;
+  /* border: 2px solid red; */
+  margin-bottom: 6%;
+  padding-right: 4%;
+  padding-left: 2%;
+}
+
+#nav-title-box {
+  display: table;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+#nav-title{
+  text-decoration: none;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+  padding-left: 10%;
+  font-size: 120%;
+}
+
+
+
+.link {
+  text-decoration: none;
+  color: whitesmoke
+}
+
+#nav-links-box {
+  display: table;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  position:relative;
+  min-width: 370px;
+
+}
+
+ul {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+
+}
+
+ul > li {
+  display: inline-block;
+  padding: 10px;
+}
